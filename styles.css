@@ -63,7 +63,7 @@ ul {
   color: grey;
 }
 
-@media (max-width: 699px) {
+@media (max-width: 749px) {
   /*mobile screen stuff*/
   .nav-menu {
     display: none;
